@@ -1,0 +1,9 @@
+.footer
+{
+    min-height: 2vh !important;
+    box-shadow: 0 25vh 0 25vh #2e3192 !important;
+}
+
+.main-space{
+    min-height: 85vh !important;
+}
